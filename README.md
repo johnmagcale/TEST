@@ -1,2 +1,2 @@
 # TheImaginaryOven
-A coming soon website for a business
+A "coming soon" webpage for a business
